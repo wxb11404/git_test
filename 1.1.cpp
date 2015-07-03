@@ -18,6 +18,7 @@ int main(){
 	}
 
 	cout << "This is used for testing git." << endl;
+	cout << "This is used for testing git." << endl;
 
 	return 0;
 }
